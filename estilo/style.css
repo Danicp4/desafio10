@@ -34,11 +34,9 @@ a.externo::after {
     content: '\00a0\1f517';
 }
 
-
-
 header {
     background-image: linear-gradient(to bottom, var(--azul-medio), var(--azul-profundo));
-     min-height: 150px;
+    min-height: 150px;
     text-align: center;
     padding-top: 40px;
 
@@ -54,13 +52,13 @@ header > h1 {
 
 header > p {
     color: white;
-    font-size: 1,2em;
+    font-size: 1.2em;
     font-family: var(--fonte-padrao);
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin: bottom: 20px;
+    margin-bottom 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.377);
 }
 
